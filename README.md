@@ -41,6 +41,6 @@ the file saved as bat extension and enjoy any program without admin rights :D
 
 **************************************
 
-!!!!!
+!!!
 remember not to use it for evil purposes and I have nothing to do with using it in a bad or malicious way, use it wisely and at your own risk
 

@@ -1,4 +1,4 @@
-                                                                                   # -bat-file-script-
+## -bat-file-script-
 bypass admin right on random computer
 
 ![admin pass](https://github.com/Dominiq217/-bat-file-script-/assets/97559453/b2434695-951a-413b-b5d4-452a09741f45)
